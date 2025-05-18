@@ -19,10 +19,18 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 #### 💻 Programming
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
+ </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
+ </a>
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
+ </a>
 </p>
 
 #### ⚛️ Frameworks & Libraries
@@ -59,18 +67,34 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 #### ⚙️ Build Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" alt="Vite" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" alt="Webpack" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="36" alt="Babel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="36" alt="Gulp" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" alt="npm" />
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" alt="Vite" />
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" alt="Webpack" />
+  </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="36" alt="Babel" />
+  </a>
+  <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="36" alt="Gulp" />
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" alt="npm" />
+  </a>
 </p>
 
 #### 🔧 Version Control & Collaboration
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/192px-Github-desktop-logo-symbol.svg.png?20200316183539" width="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" alt="GitLab" />
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
+ </a>
+ <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/192px-Github-desktop-logo-symbol.svg.png?20200316183539" width="36"  alt="GitHub" />
+ </a>
+ <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" alt="GitLab" />
+ </a>
 </p>
 
 #### 🧰 Other Tools
