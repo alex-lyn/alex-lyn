@@ -99,7 +99,7 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 <p align="left">
   <a href="https://github.com/alex-lyn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=10&title_color=0f172a&text_color=0f172a&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </p>
 
