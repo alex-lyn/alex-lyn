@@ -2,8 +2,6 @@ Hi 👋 Welcome to my profile
 =================================
 I'm a Front End Developer
 ----------------------
-
-👋 Hi, I'm a Frontend Developer 👋
 I specialize in writing clean, maintainable code without using any constructors or visual builders. 
 My focus is on building fast, scalable interfaces with vanilla HTML, CSS, JavaScript, and modern frameworks like React. 
 Passionate about clean architecture, usability, and performance. Always open to collaboration and new challenges!
