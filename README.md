@@ -1,7 +1,6 @@
-Hi 👋 My name is Oleksandr Lynnyk
+Hi 👋 Welcome to my profile
 =================================
-
-Front End development.
+I'm a Front End Developer
 ----------------------
 
 👋 Hi, I'm a Frontend Developer 👋
