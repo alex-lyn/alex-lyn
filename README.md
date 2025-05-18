@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Welcome to my profile</h1>
-<h3 align="center">Front End Developer | UI Engineer | Tech Explorer</h3>
+<h3>Front End Developer | UI Engineer | Tech Explorer</h3>
 
 <p>
   I build fast and scalable interfaces using clean, maintainable code — no constructors, no visual builders.<br />
