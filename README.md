@@ -78,7 +78,7 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 #### 🔧 Version Control & Collaboration
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
-  <img src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/github-1024.png" width="36" alt="GitHub" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/192px-Github-desktop-logo-symbol.svg.png?20200316183539" width="36" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" alt="GitLab" />
 </p>
 
