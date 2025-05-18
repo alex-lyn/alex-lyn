@@ -86,12 +86,36 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="36" alt="Photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" alt="Postman" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JetBrains_PhpStorm_Icon.svg" width="36" alt="PhpStorm" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="36" alt="PyCharm" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Icon.svg" width="36" alt="IntelliJ IDEA" />
 </p>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
+  </a>
+  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" alt="Photoshop" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" alt="Postman" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />
+  </a>
+  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354184/phpstorm.svg" width="36" alt="PhpStorm" />
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="36" alt="PyCharm" />
+  </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="36" alt="IntelliJ IDEA" />
+  </a>
+</p>
+
 
 #### 🗄️ Backend & DB (Basic)
 <p align="left">
