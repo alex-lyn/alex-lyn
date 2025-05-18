@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 Welcome to my profile</h1>
 <h3 align="center">Front End Developer | UI Engineer | Tech Explorer</h3>
 
-<p align="center">
+<p>
   I build fast and scalable interfaces using clean, maintainable code — no constructors, no visual builders.<br />
   Focused on usability, performance, and clean architecture. Always open to collaboration and new challenges.
 </p>
