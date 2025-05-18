@@ -2,19 +2,10 @@
 <h3>Front End Developer | UI Engineer | Tech Explorer</h3>
 
 <p>
-  I build fast and scalable interfaces using clean, maintainable code — no constructors, no visual builders.<br />
-  Focused on usability, performance, and clean architecture. Always open to collaboration and new challenges.
+ I build fast, scalable, and accessible interfaces with clean, maintainable code — no constructors, no visual builders.<br/> 
+ Focused on performance, usability, and clean architecture. I enjoy working with vanilla HTML/CSS/JS as well as modern frameworks like React.<br/> 
+ Passionate about continuous learning and always open to collaboration and new challenges.
 </p>
-
----
-
-### 🚀 About Me
-
-🔹 I write clean, maintainable code — no constructors or visual builders.  
-🔹 Focused on **performance**, **usability**, and **scalable** frontends.  
-🔹 Love working with **vanilla HTML/CSS/JS** and modern stacks like **React**.  
-🔹 Passionate about **clean architecture** and continuous learning.  
-🔹 Open to collaboration and new challenges!
 
 ---
 
