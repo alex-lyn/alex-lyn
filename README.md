@@ -4,9 +4,10 @@ Hi 👋 My name is Oleksandr Lynnyk
 Front End development.
 ----------------------
 
-I have good analytical skills. An active team player with a high level of leadership that thrives in a dynamic team environment. Possess well-developed computer skills. In addition, I am responsible and attention to detail. Constantly learning new skills.
-
-* 🤝  I'm open to collaborating on Front End development
+👋 Hi, I'm a Frontend Developer 👋
+I specialize in writing clean, maintainable code without using any constructors or visual builders. 
+My focus is on building fast, scalable interfaces with vanilla HTML, CSS, JavaScript, and modern frameworks like React. 
+Passionate about clean architecture, usability, and performance. Always open to collaboration and new challenges!
 
 ### Skills
 
