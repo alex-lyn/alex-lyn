@@ -139,9 +139,9 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" />
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/349342/docker.svg" width="36" alt="Docker" />
-  </a>
+  </a> -->
 </p>
 
 ---
