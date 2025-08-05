@@ -158,6 +158,10 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
   <a href="https://discord.com/users/lexandrl" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" alt="Discord" />
   </a>
+ <a href="https://t.me/web_dev_alxndr" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" alt="Telegram" />
+</a>
+
 </p>
 
 ---
