@@ -2,7 +2,7 @@
 <h3>Front End Developer | Web & Mobile Design and Web Development</h3>
 
 <p>
- I build fast, scalable, and accessible interfaces with clean, maintainable code — no constructors, no visual builders.<br/> 
+ I build fast, scalable, and accessible interfaces with clean, maintainable code - no constructors, no visual builders.<br/> 
  Focused on performance, usability, and clean architecture. I enjoy working with vanilla HTML/CSS/JS as well as modern frameworks like React.<br/> 
  I truly enjoy what I do, and I'm always open to collaboration, learning, and new challenges.
 </p>
@@ -11,7 +11,7 @@
 
 ### 🤝 Let's Collaborate
 
-If you're looking for a reliable Front End developer to build fast, accessible, and scalable web applications — feel free to reach out. I’m open to freelance and team collaboration!
+If you're looking for a reliable Front End developer to build fast, accessible, and scalable web applications - feel free to reach out. I’m open to freelance and team collaboration!
 
 ---
 
