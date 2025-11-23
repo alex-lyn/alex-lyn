@@ -144,7 +144,7 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
   </a>  -->
 </p>
 
----
+<!-----
 
 ### 🌐 Connect with me
 
@@ -158,7 +158,7 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 </p>
 
----
+--- -->
 
 ### 📊 GitHub Stats
 
