@@ -3,7 +3,7 @@
 
 <p>
  I build fast, scalable, and accessible interfaces with clean, maintainable code - no constructors, no visual builders.<br/> 
- Focused on performance, usability, and clean architecture. I enjoy working with vanilla HTML/CSS/JS as well as modern frameworks like React.<br/> 
+ Focused on performance, usability, and clean architecture. I enjoy working with vanilla HTML/CSS/JS as well as modern frameworks like React / Next.<br/> 
  I truly enjoy what I do, and I'm always open to collaboration, learning, and new challenges.
 </p>
 
