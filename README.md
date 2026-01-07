@@ -165,13 +165,17 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 ### 📊 GitHub Top Languages
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css" />
+
+
+### 📊 GitHub Top Languages
+
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css&cache_seconds=86400"
     alt="Top Languages"
   />
 </p>
-
 ---
 
 
