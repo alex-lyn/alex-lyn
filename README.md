@@ -35,8 +35,8 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 #### ⚛️ Frameworks & Libraries
 <p align="left">
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/next-colored.svg" width="36" alt="Next" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
@@ -163,12 +163,13 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 --- -->
 
-### 📊 GitHub Stats
+### 📊 GitHub Top Languages
 
 <p align="left">
-  <a href="https://github.com/alex-lyn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=10&title_color=0f172a&text_color=0f172a&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css&cache_seconds=86400"
+    alt="Top Languages"
+  />
 </p>
 
 ---
