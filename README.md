@@ -35,6 +35,9 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
 
 #### ⚛️ Frameworks & Libraries
 <p align="left">
+ <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/next-colored.svg" width="36" alt="Next" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
   </a>
