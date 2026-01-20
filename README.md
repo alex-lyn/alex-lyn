@@ -171,6 +171,5 @@ If you're looking for a reliable Front End developer to build fast, accessible, 
     alt="Top Languages"
   />
 </p>
----
 
 
