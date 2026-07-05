@@ -2,27 +2,31 @@
 
 # Hi, I'm Alex 👋
 
-### Front End Developer | React / Next.js | Building at [WEVLOX](https://wevlox.com)
+### Front-Stack Developer — React / Next.js on the front, Node / Express / Supabase underneath
 
-I build fast, scalable, accessible web interfaces with clean, maintainable code — no drag-and-drop builders, no shortcuts.
-Top Rated on Upwork with a 100% Job Success Score, and co-founder of **WEVLOX**, a digital agency creating websites and web apps that generate leads and support business growth.
-
-[![Website](https://img.shields.io/badge/🌐_Wevlox-2563EB?style=for-the-badge&logoColor=white)](https://wevlox.com)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wevlox)
+Building fast, accessible, production-grade web products from first pixel to deployed backend — clean architecture, no page builders, no shortcuts.
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+<div align="center">
 
-I focus on performance, usability, and clean architecture — comfortable in vanilla HTML/CSS/JS as well as modern frameworks like React and Next.js. Lately I've been expanding into full-stack work: pairing frontend builds with **Express**, **Supabase**, and **Stripe** to ship complete, production-ready products rather than just interfaces.
+![Profile Views](https://komarev.com/ghpvc/?username=alex-lyn&color=2563EB&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/alex-lyn?style=flat-square&color=2563EB&label=Followers)
 
-- 🛠️ Currently building multilingual, high-performance sites and web apps through **Wevlox**
-- 💼 Freelancing on Upwork — React/Next.js, Figma-to-code, full project delivery
-- 📈 Expanding into backend & full-stack: auth, databases, and payments
-- 🌍 Working remotely with clients across industries — healthcare, legal, hospitality, SaaS
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I design and build web products end to end — pixel-precise interfaces backed by real, working systems. React and Next.js are my daily tools on the frontend; on the backend I ship with Node.js, Express, and Supabase, and integrate Stripe when a product needs to handle real payments, not just look good.
+
+- 🎯 I care about performance, accessibility, and code that's still readable in a year
+- 🧱 Comfortable across the stack — from Figma handoff to deployed API
+- 🔍 Always refining how I structure state, data, and UI architecture
+- 🌱 Currently deepening my backend and payments expertise
 
 <br/>
 
@@ -83,14 +87,16 @@ I focus on performance, usability, and clean architecture — comfortable in van
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-lyn&hide_border=true" alt="GitHub Streak"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alex-lyn&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
 <br/>
-
-## 🤝 Let's Collaborate
-
-Looking for a Front End or full-stack developer to build a fast, accessible, scalable web product — feel free to reach out. Open to freelance projects and long-term collaboration.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐_Get_in_touch-2563EB?style=for-the-badge&logoColor=white)](https://wevlox.com)
+### 🤝 Open to interesting projects and collaboration
+
+If it involves clean code, thoughtful UI, and a system that actually works end to end — I'm in.
 
 </div>
