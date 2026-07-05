@@ -10,15 +10,6 @@ Building fast, accessible, production-grade web products from first pixel to dep
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alex-lyn&color=2563EB&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/alex-lyn?style=flat-square&color=2563EB&label=Followers)
-
-</div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 I design and build web products end to end — pixel-precise interfaces backed by real, working systems. React and Next.js are my daily tools on the frontend; on the backend I ship with Node.js, Express, and Supabase, and integrate Stripe when a product needs to handle real payments, not just look good.
@@ -78,18 +69,18 @@ I design and build web products end to end — pixel-precise interfaces backed b
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=alex-lyn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css&hide_border=true" alt="Top Languages"/>
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-lyn&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alex-lyn&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 <br/>
 
