@@ -1,176 +1,96 @@
-<h1 align="center">Hi 👋 Welcome to my profile</h1>
-<h3>Front End Developer | Web & Mobile Design and Web Development</h3>
+<div align="center">
 
-<p>
- I build fast, scalable, and accessible interfaces with clean, maintainable code - no constructors, no visual builders.<br/> 
- Focused on performance, usability, and clean architecture. I enjoy working with vanilla HTML/CSS/JS as well as modern frameworks like React / Next.<br/> 
- I truly enjoy what I do, and I'm always open to collaboration, learning, and new challenges.
+# Hi, I'm Alex 👋
+
+### Front End Developer | React / Next.js | Building at [WEVLOX](https://wevlox.com)
+
+I build fast, scalable, accessible web interfaces with clean, maintainable code — no drag-and-drop builders, no shortcuts.
+Top Rated on Upwork with a 100% Job Success Score, and co-founder of **WEVLOX**, a digital agency creating websites and web apps that generate leads and support business growth.
+
+[![Website](https://img.shields.io/badge/🌐_Wevlox-2563EB?style=for-the-badge&logoColor=white)](https://wevlox.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/wevlox)
+
+</div>
+
+<br/>
+
+## 🚀 About Me
+
+I focus on performance, usability, and clean architecture — comfortable in vanilla HTML/CSS/JS as well as modern frameworks like React and Next.js. Lately I've been expanding into full-stack work: pairing frontend builds with **Express**, **Supabase**, and **Stripe** to ship complete, production-ready products rather than just interfaces.
+
+- 🛠️ Currently building multilingual, high-performance sites and web apps through **Wevlox**
+- 💼 Freelancing on Upwork — React/Next.js, Figma-to-code, full project delivery
+- 📈 Expanding into backend & full-stack: auth, databases, and payments
+- 🌍 Working remotely with clients across industries — healthcare, legal, hospitality, SaaS
+
+<br/>
+
+## ⚙️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Styling & Animation**
+
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+**Backend & Full-Stack**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Build Tools & Version Control**
+
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**Deployment & Design**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alex-lyn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-### 🤝 Let's Collaborate
-
-If you're looking for a reliable Front End developer to build fast, accessible, and scalable web applications - feel free to reach out. I’m open to freelance and team collaboration!
-
----
-
-### ⚙️ Tech Stack & Tools
-
-#### 💻 Programming
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" alt="HTML5" />
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" alt="CSS3" />
- </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" alt="JavaScript" />
- </a>
- <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
- </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-lyn&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-#### ⚛️ Frameworks & Libraries
-<p align="left">
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" alt="Next.js" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" alt="React" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" alt="Redux" />
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" alt="jQuery" />
-  </a>
-  <a href="https://www.i18next.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/i18next/i18next-icon.svg" width="36" alt="i18next" />
-  </a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" alt="Jest" />
-  </a>
-</p>
+<br/>
 
-#### 🎨 Styling
-<p align="left">
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" alt="Sass" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://icons.getbootstrap.com/assets/img/icons-hero.png" width="36" alt="Bootstrap" />
-  </a>
-</p>
+## 🤝 Let's Collaborate
 
-#### ⚙️ Build Tools
-<p align="left">
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" alt="Vite" />
-  </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" alt="Webpack" />
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg" width="36" alt="Babel" />
-  </a>
-  <a href="https://gulpjs.com/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="36" alt="Gulp" />
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" alt="npm" />
-  </a>
-</p>
+Looking for a Front End or full-stack developer to build a fast, accessible, scalable web product — feel free to reach out. Open to freelance projects and long-term collaboration.
 
-#### 🔧 Version Control & Collaboration
-<p align="left">
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" alt="Git" />
- </a>
- <a href="https://desktop.github.com/" target="_blank" rel="noreferrer">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/192px-Github-desktop-logo-symbol.svg.png?20200316183539" width="36"  alt="GitHub" />
- </a>
- <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="36" alt="GitLab" />
- </a>
-</p>
+<div align="center">
 
-#### 🧰 Other Tools
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" alt="Figma" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="36" alt="Postman" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" alt="VS Code" />
-  </a>
-  <a href="https://www.jetbrains.com/phpstorm/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354184/phpstorm.svg" width="36" alt="PhpStorm" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354237/pycharm.svg" width="36" alt="PyCharm" />
-  </a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/353906/intellij-idea.svg" width="36" alt="IntelliJ IDEA" />
-  </a>
-</p>
+[![Website](https://img.shields.io/badge/🌐_Get_in_touch-2563EB?style=for-the-badge&logoColor=white)](https://wevlox.com)
 
-#### 🗄️ Backend & DB
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" alt="Express" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" alt="Django" />
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" alt="FastAPI" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" alt="MySQL" />
-  </a>
- 
-<!--   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/349342/docker.svg" width="36" alt="Docker" />
-  </a>  -->
-</p>
-
-<!-----
-
-### 🌐 Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oleksandr-lynnyk-517104295/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn" />
-  </a>
-  <a href="https://discord.com/users/lexandrl" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" alt="Discord" />
-  </a>
-
-</p>
-
---- -->
-
-### 📊 GitHub Top Languages
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css&cache_seconds=86400"
-    alt="Top Languages"
-  />
-</p>
-
-
+</div>
