@@ -10,6 +10,15 @@ Building fast, accessible, production-grade web products from first pixel to dep
 
 <br/>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=alex-lyn&color=2563EB&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/alex-lyn?style=flat-square&color=2563EB&label=Followers)
+
+</div>
+
+<br/>
+
 ## 👨‍💻 About Me
 
 I design and build web products end to end — pixel-precise interfaces backed by real, working systems. React and Next.js are my daily tools on the frontend; on the backend I ship with Node.js, Express, and Supabase, and integrate Stripe when a product needs to handle real payments, not just look good.
@@ -17,6 +26,7 @@ I design and build web products end to end — pixel-precise interfaces backed b
 - 🎯 I care about performance, accessibility, and code that's still readable in a year
 - 🧱 Comfortable across the stack — from Figma handoff to deployed API
 - 🔍 Always refining how I structure state, data, and UI architecture
+- 🌱 Currently deepening my backend and payments expertise
 
 <br/>
 
@@ -59,17 +69,33 @@ I design and build web products end to end — pixel-precise interfaces backed b
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-**Deployment & Design**
+**Deployment**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Design & Creative**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alex-lyn&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-lyn&layout=compact&langs_count=8&hide=html,css&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alex-lyn&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alex-lyn&theme=flat&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 <br/>
