@@ -17,7 +17,6 @@ I design and build web products end to end — pixel-precise interfaces backed b
 - 🎯 I care about performance, accessibility, and code that's still readable in a year
 - 🧱 Comfortable across the stack — from Figma handoff to deployed API
 - 🔍 Always refining how I structure state, data, and UI architecture
-- 🌱 Currently deepening my backend and payments expertise
 
 <br/>
 
