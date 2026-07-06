@@ -10,15 +10,6 @@ Building fast, accessible, production-grade web products from first pixel to dep
 
 <br/>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=alex-lyn&color=2563EB&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/alex-lyn?style=flat-square&color=2563EB&label=Followers)
-
-</div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 I design and build web products end to end — pixel-precise interfaces backed by real, working systems. React and Next.js are my daily tools on the frontend; on the backend I ship with Node.js, Express, and Supabase, and integrate Stripe when a product needs to handle real payments, not just look good.
